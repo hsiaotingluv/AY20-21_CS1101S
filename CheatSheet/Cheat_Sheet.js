@@ -1,5 +1,3 @@
-Cheat Sheet
-
 Cheat_sheet.js
 
 // Array functions

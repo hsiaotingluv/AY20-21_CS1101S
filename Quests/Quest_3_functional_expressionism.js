@@ -29,7 +29,7 @@ O(n)
 */
 
 // Comments 
-The question was asking for Omega, not Big Oh, but I'll give you the benefit of the doubt. (-10XP instead of -100XP)
+// The question was asking for Omega, not Big Oh, but I'll give you the benefit of the doubt. (-10XP instead of -100XP)
 
 // Question 4
 const zero_repeater = f => x => x;
